@@ -4,6 +4,8 @@ description: This resource contains information related to moist convection.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/695b5a35110969860e30d0f6c489f1b9_MIT12_103S10_tornado_3.pdf
 file_size: 256265
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

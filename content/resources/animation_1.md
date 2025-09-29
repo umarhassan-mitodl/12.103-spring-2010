@@ -4,6 +4,8 @@ description: This is a supporting file for lecture 7.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/782b9a15e236a98661660d70267bc906_animation_1.avi
 file_size: 4220920
 file_type: video/x-msvideo
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains information related to stability assessment.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/19b49217548c0f26b4c0e14355a643d9_MIT12_103S10_tornado_4.pdf
 file_size: 680883
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

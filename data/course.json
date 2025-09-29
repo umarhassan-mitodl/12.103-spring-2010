@@ -44,6 +44,7 @@
     "website": "12-103-science-and-policy-of-natural-hazards-spring-2010"
   },
   "course_title": "Science and Policy of Natural Hazards",
+  "hide_download": true,
   "course_description": "This course examines the science of natural catastrophes such as earthquakes and hurricanes and explores the relationships between the science of and policy toward such hazards. It presents the causes and effects of these phenomena, discusses their predictability, and examines how this knowledge influences policy making. This course includes intensive practice in the writing and presentation of scientific research and summaries for policy makers.\n",
   "department_numbers": [
     "12"
@@ -54,6 +55,7 @@
     "content": "aa15a652-5c23-a958-4a61-839ae7b863c7",
     "website": "12-103-science-and-policy-of-natural-hazards-spring-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

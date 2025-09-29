@@ -4,6 +4,8 @@ description: This resource provides information related to thunderstorms.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/5fd239667628338188b28e0e6231e8ef_MIT12_103S10_tornado_5.pdf
 file_size: 865655
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
