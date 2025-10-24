@@ -4,8 +4,6 @@ description: This resource contains information related to vortex tornadoes.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/c0dbb75e0aefc8b8316094856905bf66_MIT12_103S10_tornado_7.pdf
 file_size: 207799
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

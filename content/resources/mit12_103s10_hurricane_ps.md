@@ -4,8 +4,6 @@ description: This resource contains problem statements related to hurricanes.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/199ab5331d60d80fe54473d6dae3479d_MIT12_103S10_hurricane_ps.pdf
 file_size: 86431
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

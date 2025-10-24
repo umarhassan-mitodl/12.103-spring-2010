@@ -4,8 +4,6 @@ description: This resource provides information related to volcano hazards.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/b371ca23c5c593f877a6050e5c8d3ce1_MIT12_103S10_volcanoes_9.pdf
 file_size: 383847
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

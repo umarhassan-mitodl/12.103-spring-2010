@@ -4,8 +4,6 @@ description: This resource contains information related to tropical cyclones.
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/bc68217012727e9bfacdd93d0b22adcb_MIT12_103S10_hurricane1.pdf
 file_size: 3194036
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
